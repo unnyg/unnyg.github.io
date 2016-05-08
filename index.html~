@@ -49,8 +49,8 @@
 											<li><a href="#">Nisl tempus</a></li>
 										</ul>
 									</li>
-									<li><a href="no-sidebar.html">Books</a></li>	
-									<li><a href="no-sidebar1.html">Photos</a></li>
+									<li>Books</li>	
+									<li>Photos</li>
 									<li>About me</li>
 
 							<!--	<li><a href="left-sidebar.html">Left Sidebar usage</a></li>	
