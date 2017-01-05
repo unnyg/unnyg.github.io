@@ -1,3 +1,3 @@
-# chirayubatra.github.io
+# unnyg.github.io
 
-A personal website to let you know a bit about my professional and personal life. 
+A website to let you know a bit about UN Nuclear Young Generation.
